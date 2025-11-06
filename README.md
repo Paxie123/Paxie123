@@ -7,9 +7,6 @@
 📚 [我的笔记](https://example.com) • 💻 [我的项目](https://example.com) • 🗒️ [踩坑记录](https://example.com) • 🧑‍💼 [我的简历](https://example.com) • 🎥 [我的视频](https://example.com)
 
 <p align="center">
-  <a href="https://github.com/Paxie123">
-    <img src="https://badges.pufler.dev/visits/Paxie123/Paxie123?style=flat-square" />
-  </a>
   <a href="https://github.com/Paxie123?tab=followers">
     <img src="https://img.shields.io/github/followers/Paxie123?style=social" />
   </a>
