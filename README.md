@@ -4,7 +4,7 @@
 # 👋 Hi, I'm 程序员Paxie  
 重庆邮电大学 2023届 
 
-📚 [我的笔记]([https://github.com/Paxie123/Learning-Journey]) • 💻 [我的项目](https://example.com) • 🗒️ [踩坑记录]([https://github.com/Paxie123/Problem-record]) • 🧑‍💼 [我的简历](https://example.com) 
+📚 [我的笔记](https://github.com/Paxie123/Learning-Journey) • 💻 [我的项目](https://example.com) • 🗒️ [踩坑记录](https://github.com/Paxie123/Problem-record) • 🧑‍💼 [我的简历](https://example.com) 
 
 <p align="center">
   <a href="https://github.com/Paxie123?tab=followers">
