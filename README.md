@@ -4,7 +4,7 @@
 # 👋 Hi, I'm 程序员Paxie  
 重庆邮电大学 2023年毕业生 
 
-📚 [代码随想录](https://example.com) • 💻 [卡码网](https://example.com) • 🗒️ [卡码笔记](https://example.com) • 🧑‍💼 [卡码简历](https://example.com) • 🎥 [算法公开课](https://example.com)
+📚 [我的笔记](https://example.com) • 💻 [我的项目](https://example.com) • 🗒️ [我的文档](https://example.com) • 🧑‍💼 [我的简历](https://example.com) • 🎥 [我的视频](https://example.com)
 
 </div>
 
