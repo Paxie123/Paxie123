@@ -1,10 +1,8 @@
 
 <center>
   
-# 👋 Hi, I'm 你的名字  
-《代码随想录》作者 · 哈工大师兄 · 前腾讯/百度工程师  
-
-专注算法 & 系统开发，致力于打造程序员学习与开发必备工具。  
+# 👋 Hi, I'm 程序员Paxie  
+重庆邮电大学 2023年毕业生 
 
 📚 [代码随想录](https://example.com) • 💻 [卡码网](https://example.com) • 🗒️ [卡码笔记](https://example.com) • 🧑‍💼 [卡码简历](https://example.com) • 🎥 [算法公开课](https://example.com)
 
