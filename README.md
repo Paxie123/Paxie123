@@ -1,16 +1,64 @@
-## Hi there 👋
 
-<!--
-**Paxie123/Paxie123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<center>
+  
+# 👋 Hi, I'm 你的名字  
+《代码随想录》作者 · 哈工大师兄 · 前腾讯/百度工程师  
 
-Here are some ideas to get you started:
+专注算法 & 系统开发，致力于打造程序员学习与开发必备工具。  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 [代码随想录](https://example.com) • 💻 [卡码网](https://example.com) • 🗒️ [卡码笔记](https://example.com) • 🧑‍💼 [卡码简历](https://example.com) • 🎥 [算法公开课](https://example.com)
+
+</center>
+
+---
+
+## 🚀 项目与作品
+
+### 🧩 学习 & 刷题
+- **Leetcode-master** 🔥：[LeetCode 刷题全攻略](https://github.com/yourname/leetcode-master)  
+- **Leetcode 大师** 🔥：[LeetCode 刷题全攻略](https://github.com/yourname/leetcode-dashi)  
+- **DesignPattern** 🔥：[23 种设计模式精讲与实战](https://github.com/yourname/DesignPattern)  
+- **Markdown-Resume-Template**：[Carl 的简历模板](https://github.com/yourname/Markdown-Resume-Template)  
+- **kamacoder-solutions**：[卡码网全套题解](https://github.com/yourname/kamacoder-solutions)  
+
+### ⚙️ 系统开发 (C++)
+- **KVstorageBaseRaft-cpp**：Raft 分布式 KV 存储  
+- **Skiplist-CPP**：KV 存储  
+- **Krpc**：手撕 RPC 框架  
+- **coroutine-lib**：协程库  
+- **KamaCache**：缓存系统  
+- **memory-pool**：内存池  
+- **muduo-core**：高性能网络库  
+- **KamaOS**：操作系统项目  
+- **kama-webserver**：WebServer  
+- **kamaLog**：日志系统  
+- **Kama-AsynLogSystem-CloudStorage**：异步日志云存储  
+- **Kama-HTTPServer**：HTTP 服务框架  
+
+### ☕ Java
+- **kamanotes**：卡码笔记后端  
+- **mini-spring**：手写 Spring 框架  
+- **RPC-Java**：RPC 框架  
+- **Skiplist-Java**：KV 存储  
+
+### 🐍 Python
+- **NoSQLAttack**：NoSQL 注入攻击测试  
+- **Test-Automation-Framework**：自动化测试框架  
+
+### 🐹 Go
+- **KamaCache-Go**：缓存系统  
+- **KamaChat**：分布式聊天室（仿微信）  
+
+### 🛠️ 工具
+- **PowerVim** 🔥：工业级 Vim 配置  
+- **fileHttpServer**：文件上传服务  
+- **PowerSqlgen**：批量生成 SQL 工具  
+
+---
+
+## ✨ 状态
+![Stats](https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true&theme=radical)
+
+---
+
+&gt; 🚩 如果我的项目对你有帮助，欢迎 **Star** & **Follow**，让更多人受益！
