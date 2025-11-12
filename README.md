@@ -19,7 +19,7 @@
 ## 🚀 项目与作品
 
 ### 🧩 学习 & 刷题
-- **华为机考刷题指南** 🔥：https://github.com/Paxie123/Learning-Journey/tree/master/C%2B%2B_Learning/Huawei_Testing
+- **华为机考刷题指南** 🔥：[Huawei_Testing]https://github.com/Paxie123/Learning-Journey/tree/master/C%2B%2B_Learning/Huawei_Testing
 - **Leetcode 大师** 🔥：[LeetCode 刷题全攻略](https://github.com/yourname/leetcode-dashi)  
 - **DesignPattern** 🔥：[23 种设计模式精讲与实战](https://github.com/yourname/DesignPattern)  
 - **Markdown-Resume-Template**：[Carl 的简历模板](https://github.com/yourname/Markdown-Resume-Template)  
